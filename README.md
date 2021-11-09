@@ -1,3 +1,2 @@
-# GreatLearningAIML
-
-List of Projects done as part of PGP AIML course done in Great Learning batch of January 2020.
+# pgpaiml-chennai-jan20-sivakumar-arul
+pgpaiml-chennai-jan20-sivakumar-arul created by GitHub Classroom
